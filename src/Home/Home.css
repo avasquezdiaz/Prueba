@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/fotoBanner.jpg?alt=media&token=ec5b77aa-cbcb-4098-8012-f4062226077b');
+    background-position: top center;
+    background-size: cover;
+    padding: 5% 20% 35% 20%;
+}
