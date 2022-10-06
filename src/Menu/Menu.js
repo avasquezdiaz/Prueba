@@ -1,6 +1,6 @@
 import { Routes, Route, Link } from "react-router-dom";
 export function Menu() {
-  return 
+  return( 
   <>
     <nav className="navbar navbar-expand-lg bg-light">
         <div className="container-fluid">
@@ -27,4 +27,5 @@ export function Menu() {
         </div>
     </nav>
   </>
+  )
 }

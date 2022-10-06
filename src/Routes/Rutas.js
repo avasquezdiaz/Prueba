@@ -11,7 +11,7 @@ import {Menu} from "../Menu/Menu.js"
 export function Rutas() {
     return (
       <div>
-        <Menu></Menu>
+       <Menu/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="historia" element={<Historia />} />

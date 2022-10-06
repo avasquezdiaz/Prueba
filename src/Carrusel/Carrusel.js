@@ -8,7 +8,7 @@ export function Carrusel() {
       >
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/silvestre2.jpg?alt=media&token=538f21ec-b528-431f-94da-74b2eb81431f" height="600" className="w-100" alt="..." />
+            <img src="https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/Concierto.jpg?alt=media&token=1666e565-6d67-49e5-bc8b-64bc7696f7ae" height="600" className="w-100" alt="..." />
           </div>
           <div className="carousel-item">
             <img src="https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/silvestre2.jpg?alt=media&token=538f21ec-b528-431f-94da-74b2eb81431f" height="600" className="w-100" alt="..." />
