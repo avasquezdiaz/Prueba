@@ -23,7 +23,7 @@ export function Musicos (){
         {
             Fecha:"2017",
             Lugar:"Miami",
-            Descripcion:"La sensación de la música latina, SILVESTRE DANGOND, hizo historia en Miami este pasado sábado 15 de julio, presentado el primer concierto de Vallenato completamente repleto en el prestigioso American Airlines Arena. El artista deleitó a su audiencia con su gran energía y la buena vibra tan características de sus conciertos.",
+            Descripcion:"La sensación de la música latina, SILVESTRE DANGOND, hizo historia en Miami este pasado sábado 15 de julio de 2017, presentado el primer concierto de Vallenato completamente repleto en el prestigioso American Airlines Arena. El artista deleitó a su audiencia con su gran energía y la buena vibra tan características de sus conciertos.",
             Foto:"https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/Miami.jpg?alt=media&token=5fab1d92-35bd-42cc-9535-fbf234aa0e91",
 
             Fecha:"2019",
@@ -33,17 +33,17 @@ export function Musicos (){
 
             fecha:"2022",
             Lugar:"Montreal",
-            Descripcion: "Silvestre Dangond anuncia para julio una gira por Canadá y EE.UU. El cantante colombiano Silvestre Dangond realizará una gira de conciertos por Estados Unidos y Canadá entre el 15 y el 30 de julio, informó este martes la empresa productora Loud and Alive.Dangond ha llevado el vallenato a otras fronteras y sigue dejando huella con el lanzamiento de su álbum «Las locuras mías», del que se han desprendido varios sencillos.",
+            Descripcion: "Silvestre Dangond anuncia para julio una gira por Canadá y EE.UU. El cantante colombiano Silvestre Dangond realizo una gira de conciertos por Estados Unidos y Canadá entre el 15 y el 30 de julio, informó este martes la empresa productora Loud and Alive.Dangond ha llevado el vallenato a otras fronteras y sigue dejando huella con el lanzamiento de su álbum «Las locuras mías», del que se han desprendido varios sencillos.",
             Foto:"https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/Montreal.jpg?alt=media&token=ea6797f7-caf5-4c37-9fd7-3cc09a3cb98e",
 
             fecha:"2022",
             Lugar:"Chicago",
-            descripcion:"Loud And Live presenta Silvestre Dangond en su gira 2022. Los conciertos llevarán a la súper estrella colombiana a ocho ciudades en Estados Unidos y Canadá durante el mes de julio que coincide con la celebración de la Independencia de Colombia. Silvestre se presentara en Chicago el sábado 30 de julio.",
+            descripcion:"Loud And Live presenta Silvestre Dangond en su gira 2022. Los conciertos llevarán a la súper estrella colombiana a ocho ciudades en Estados Unidos y Canadá durante el mes de julio que coincide con la celebración de la Independencia de Colombia. Silvestre se presento en Chicago el sábado 30 de julio.",
             foto:"https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/Chicago.jpg?alt=media&token=e5e3560c-f752-42d6-a4d7-08fa9ae5939e",
 
             fecha:"2022",
             Lugar:"Atlanta",
-            descripcion:"",
+            descripcion:"Silvestre DAngond realizo concierto en  Atlanta Coliseum",
             foto:"https://firebasestorage.googleapis.com/v0/b/fotosantojoavd.appspot.com/o/Atlanta.jpg?alt=media&token=171e3bb4-bec2-4a9e-83d1-615cacd36f98",
 
         }

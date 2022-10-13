@@ -18,7 +18,7 @@ export function Home (){
                 <div className="container mt-5">
                     <div className="row">
                         <div className="col-12">
-                            <h1 className="text-center">INCUBUS</h1>
+                            <h1 className="text-center">Silvestre Dangond</h1>
                             <p className = "text-center">{descripcionBanda}</p>
 
                         </div>

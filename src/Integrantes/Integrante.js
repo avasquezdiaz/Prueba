@@ -61,7 +61,7 @@ export function Integrantes(){
                 </div> 
                 <div className="col-12 col-md-4 align-self-center border-start">
                     <h2>2020</h2>
-                    <h3>durante la pandemia del coronavirus, el cual fue bien recibido y aplaudido por sus seguidores, pues por medio de su melodiosa voz y el sonido de los instrumentos, logró regresar a las raíces del vallenato, con el estilo sentimental y romántico que lo caracterizó en sus inicios. </h3>
+                    <h3>Durante la pandemia del coronavirus, el cual fue bien recibido y aplaudido por sus seguidores, pues por medio de su melodiosa voz y el sonido de los instrumentos, logró regresar a las raíces del vallenato, con el estilo sentimental y romántico que lo caracterizó en sus inicios. </h3>
                 </div>
             </div>
             <div className='row'>
