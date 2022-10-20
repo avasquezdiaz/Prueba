@@ -45,6 +45,7 @@ export function Albumes (){
                             <div className="card h-100">
                                 <audio controls src={cancion.preview_url}></audio>
                                 <h1 className="text-center fuente"> {cancion.nombre}</h1>
+                                <img src={cancion.album.images[0].url} className="img-fluid h-100 p-1 w-100" alt="foto"/>
     
                             </div>
     

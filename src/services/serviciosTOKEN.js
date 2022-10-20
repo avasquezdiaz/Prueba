@@ -19,6 +19,9 @@ export async function serviciosTOKEN(){
     //fetch
     let respuesta = await fetch(URI,PETICION)
     let datos= await respuesta.json()
+
+   
+    datos=datos.token_type+' '+datos.access_token;
     
     return datos
 

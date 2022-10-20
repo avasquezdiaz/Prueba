@@ -2,7 +2,8 @@ import { serviciosTOKEN } from "../services/serviciosTOKEN"
 export async function servicioSpoty(){
     const URI="https://api.spotify.com/v1/artists/3OcvS8PzSGYMBvLdzY6g3e/top-tracks?market=us"
 
-    const TOKEN= serviciosTOKEN()
+    const TOKEN= await serviciosTOKEN()
+    console.log(TOKEN);
 
     const PETICION={
         method:"GET",
